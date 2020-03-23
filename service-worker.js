@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tcc-borala/precache-manifest.f7bba49602daecb86728993a4c80eef8.js"
+  "/tcc-borala/precache-manifest.40f3c70e74bc515f0d14676227570c91.js"
 );
 
 self.addEventListener('message', (event) => {
