@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/tcc-borala/static/css/main.edb1793e.chunk.css",
-    "main.js": "/tcc-borala/static/js/main.be572bac.chunk.js",
-    "main.js.map": "/tcc-borala/static/js/main.be572bac.chunk.js.map",
+    "main.css": "/tcc-borala/static/css/main.ae04fdbc.chunk.css",
+    "main.js": "/tcc-borala/static/js/main.9dcb0469.chunk.js",
+    "main.js.map": "/tcc-borala/static/js/main.9dcb0469.chunk.js.map",
     "runtime-main.js": "/tcc-borala/static/js/runtime-main.e978ec88.js",
     "runtime-main.js.map": "/tcc-borala/static/js/runtime-main.e978ec88.js.map",
     "static/js/2.db03f008.chunk.js": "/tcc-borala/static/js/2.db03f008.chunk.js",
     "static/js/2.db03f008.chunk.js.map": "/tcc-borala/static/js/2.db03f008.chunk.js.map",
     "index.html": "/tcc-borala/index.html",
-    "precache-manifest.40f3c70e74bc515f0d14676227570c91.js": "/tcc-borala/precache-manifest.40f3c70e74bc515f0d14676227570c91.js",
+    "precache-manifest.955b40e63a4781b8192c216738f132c2.js": "/tcc-borala/precache-manifest.955b40e63a4781b8192c216738f132c2.js",
     "service-worker.js": "/tcc-borala/service-worker.js",
-    "static/css/main.edb1793e.chunk.css.map": "/tcc-borala/static/css/main.edb1793e.chunk.css.map",
+    "static/css/main.ae04fdbc.chunk.css.map": "/tcc-borala/static/css/main.ae04fdbc.chunk.css.map",
     "static/js/2.db03f008.chunk.js.LICENSE.txt": "/tcc-borala/static/js/2.db03f008.chunk.js.LICENSE.txt",
     "static/media/van-gif.gif": "/tcc-borala/static/media/van-gif.0d503549.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.e978ec88.js",
     "static/js/2.db03f008.chunk.js",
-    "static/css/main.edb1793e.chunk.css",
-    "static/js/main.be572bac.chunk.js"
+    "static/css/main.ae04fdbc.chunk.css",
+    "static/js/main.9dcb0469.chunk.js"
   ]
 }
