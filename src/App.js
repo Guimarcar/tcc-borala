@@ -7,8 +7,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h2>UNIFAJ 2020</h2>
-        <p>Trabalho de Conclusão de Curso!</p>
+        <h2>Boralá!</h2>
+        <p>
+          UNIFAJ 2020 <br /> Trabalho de Conclusão de Curso!
+        </p>
         <a
           name="repositorio"
           id="repositorio"
@@ -17,7 +19,7 @@ function App() {
           href="https://github.com/Guimarcar/tcc-borala"
           role="button"
         >
-          Repositório Github
+          Repositório GitHub
         </a>
       </header>
     </div>

@@ -7,12 +7,6 @@
   pointer-events: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .App-header {
   background-color: white;
   min-height: 100vh;
@@ -25,11 +19,15 @@
 }
 
 h2 {
-  text-shadow: 2px 2px 2px rgb(8, 0, 80);
+  text-shadow: 1px 1px 2px rgb(8, 0, 80);
+}
+
+p {
+  text-shadow: 1px 1px 1px rgba(8, 0, 80, 0.5);
 }
 
 .repositorio {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .App-link {
